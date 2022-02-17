@@ -6,14 +6,17 @@ As a reminder, keeping up with reading in the Practical Computing book (and revi
 
 ## What is Python?
 
-- Interpreted, high-level language
-- Very popular among computational biologists
-- One of the most "human readable" programming languages
-- One of the few languages where line indentation is actually interpreted as part of the code
+- Interpreted, high-level language (means it does memory management, takes care of details, opposite of interpreted language is complied, easy to learn and write)
+- Very popular among computational biologists (libraries exist for us to use already)
+- One of the most "human readable" programming languages 
+- One of the few languages where line indentation is actually interpreted as part of the code (spacing tells when codes should be executed)
 - Python is _much_ less picky than bash about spacing within lines, though
-- Dynamically typed (don't worry, we'll get to this later)
+- Dynamically typed (don't worry, we'll get to this later) 
 
 ## Three Ways to Run Python
+>>> means we cannot do bash commands
+>>> quit() to exit
+
 
 ### Python Interpreter
 
